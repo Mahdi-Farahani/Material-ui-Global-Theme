@@ -41,7 +41,7 @@ export default function App() {
 
 1. Fork it (<https://github.com/Mahdi-Farahani/Material-ui-Global-Theme/fork>)
 2. Commit your changes 
-4. Push to the master branch 
+4. Push to the main branch 
 5. Create a new Pull Request
 
 
