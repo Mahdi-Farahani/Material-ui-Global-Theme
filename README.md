@@ -1,6 +1,4 @@
 # Material-ui-Global-Theme
-> This is Global Theme For Material-ui and you can use it 
-
 
 ![ilaraweb-material-ui](https://user-images.githubusercontent.com/45122941/101259945-7c22f600-3741-11eb-8847-20a870fb114d.jpg)
 
@@ -19,7 +17,7 @@ npm i @material-ui/styles
 1- Add this Theme folder to your Project (example: src/theme)
 2-Go to your ``HOC Component`` and add :
 ```
-import ThemeProvider from '@material-ui/core/styles';
+import ```diff-ThemeProvider``` from '@material-ui/core/styles';
 ```
 ```
 import Theme from '../src/theme';
