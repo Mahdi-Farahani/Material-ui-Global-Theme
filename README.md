@@ -25,7 +25,7 @@ import ThemeProvider from '@material-ui/core/styles';
 ```js
 import Theme from '../src/theme';
 ```
-3-Use ``ThemeProvider`` With theme name ->props
+3-Use ``ThemeProvider`` with use theme props :  
 ```js
 export default function App() {
   return (
