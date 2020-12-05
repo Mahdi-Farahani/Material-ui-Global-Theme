@@ -16,10 +16,10 @@ npm i @material-ui/styles
 ## Usage 
 1- Add this Theme folder to your Project (example: src/theme)
 2-Go to your ``HOC Component`` and add :
-```
+```js
 import ThemeProvider from '@material-ui/core/styles';
 ```
-```
+```js
 import Theme from '../src/theme';
 ```
 3-Use ``ThemeProvider`` With theme name ->props
