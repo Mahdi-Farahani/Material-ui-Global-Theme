@@ -12,7 +12,10 @@ git clone https://github.com/Mahdi-Farahani/Material-ui-Global-Theme
  ```sh
 npm i @material-ui/styles
 ```
-
+--Install tinycolor2
+ ```sh
+npm i tinycolor2
+```
 ## Usage 
 1- Add this Theme folder to your Project (example: src/theme)
 2-Go to your ``HOC Component`` and add :
