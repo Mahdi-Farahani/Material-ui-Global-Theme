@@ -24,7 +24,7 @@ npm i tinycolor2
 import ThemeProvider from '@material-ui/core/styles';
 ```
 ```js
-import Theme from '../src/theme';
+import theme from '../src/theme';
 ```
 3-Use ``ThemeProvider`` with use theme props :  
 ```js
