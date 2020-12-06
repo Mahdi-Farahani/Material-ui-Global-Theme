@@ -21,7 +21,7 @@ npm i tinycolor2
 1- Add this Theme folder to your Project (example: src/theme)
 2-Go to your ``HOC Component`` and add :
 ```js
-import ThemeProvider from '@material-ui/core/styles';
+import {ThemeProvider} from '@material-ui/core/styles';
 ```
 ```js
 import theme from '../src/theme';
