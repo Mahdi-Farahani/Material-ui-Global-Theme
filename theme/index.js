@@ -1,4 +1,6 @@
 import defaultTheme from "./default";
+import dark from './dark';
+
 
 import { createMuiTheme } from "@material-ui/core";
 
@@ -27,4 +29,5 @@ const overrides = {
 
 export default {
   default: createMuiTheme({ ...defaultTheme, ...overrides }),
+  dark: createMuiTheme({ ...dark, ...overrides }),
 };
